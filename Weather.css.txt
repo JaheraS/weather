@@ -1,5 +1,5 @@
 body {
-    background-image: url("https://github.com/joanmarieverba/weather-forecast/blob/master/background-sky.jpg?raw=true");
+    background-image: url("https://media.istockphoto.com/id/1178574690/photo/blue-sky-and-white-clouds.jpg?s=612x612&w=0&k=20&c=GPXcVIVXEPZPuNABownazWcrlTEritbMg0t88oDN0IQ=");
     font-family: 'Roboto';
     background-size: cover;
     padding: 20px;
